@@ -14,9 +14,6 @@ export default function Home() {
             <NavbarDemo />
         </div>
         <div className="flex items-center content-center h-screen dark bg-black">
-            <DotPatternDemo />
-        </div>
-        <div className="flex items-center content-center h-screen dark bg-black">
             <FlipWordsDemo />
         </div>
     </>
